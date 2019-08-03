@@ -20,5 +20,5 @@ Try cleaning and rebuilding the project in your programming environment, once yo
 
 **A personal note:** `You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.`
 
-This project is initially developed by **[Oengo Dickson](hhttps://github.com/dicksonorengo)**.
+This project is initially developed by **[Orengo Dickson](hhttps://github.com/dicksonorengo)**.
 
