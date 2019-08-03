@@ -1,16 +1,13 @@
 <a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://yt3.ggpht.com/a/AGF-l79xxreM4k5oq1461DmD_7zVybAxjqJXIitf8A=s900-mo-c-c0xffffffff-rj-k-no" width="65"></a>
 
-# Android Smart WebView
-[![alt text](https://img.shields.io/badge/project%20variant-java-red.svg)](#) [![alt text](https://img.shields.io/badge/version-4-green.svg)](https://github.com/mgks/Android-SmartWebView/releases) [![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php) [![alt text](https://img.shields.io/badge/learn%20about-SWV%20Pro-yellow.svg "Get Smart WebView Pro")](https://github.com/voinsource/SmartWebView-Pro)
+# E.U FET Resources
 
-**For kotlin variant, see: [Kotlin Smart WebView](https://github.com/mgks/Kotlin-SmartWebView)**
+This project is developed to help Egerton Engineers to create hybrid android applications. This app gives web based applications power to use native android features without hassle.
 
-This project is developed to help anyone create hybrid android applications with just webview. This app gives web based applications power to use native android features without hassle, whether online or offline w/ just HTML+JavaScript.
-
-Android Smart WebView gathers only required information from user's device based on request, that includes Live GPS location, File upload, Camera image processing, Rating system and more, with clean minimal interface.
+This project was written by ORENGO DICKSON
 
 # Getting Started
-These instructions will help you get your Smart WebView copy up and running on your local machine for development and testing purposes.
+These instructions will help you get your E.U FET Resources copy up and running on your local machine for development and testing purposes.
 
 
 # Requirement
@@ -23,6 +20,5 @@ Try cleaning and rebuilding the project in your programming environment, once yo
 
 **A personal note:** `You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.`
 
-This project is initially developed by **[Ghazi Khan](https://github.com/mgks)**.
+This project is initially developed by **[Oengo Dickson](hhttps://github.com/dicksonorengo)**.
 
-[![Profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mgks)
