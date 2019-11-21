@@ -5,13 +5,13 @@
 This project is developed to help Egerton Engineers to create hybrid android applications. This app gives web based applications power to use native android features without hassle.
 
 This project was written by ORENGO DICKSON
-
-Good morning engineers, 
-We are currently working very hard on E.U FET RESOURCES APP with @⁨DOMINIC KATA⁩ @⁨Engineer NAMASWA⁩ , @⁨Garison Kip⁩   , @⁨Rick MONAGAK⁩ @⁨Alfred Mutua⁩ and 6 more members from different faculty . It will bring a lot of new features. 
-You can inbox any of our team and you'll be one of the first to know when the app is ready: Stay tuned!
+ 
+We are currently working very hard on **E.U FET RESOURCES APP** with **DOMINIC KATA**⁩ **Engineer NAMASWA**⁩ , **⁨Garison Kip⁩**   , **Rick MONAGAK⁩** **⁨Alfred Mutua**⁩ and 6 more members from different faculty . It will bring a lot of new features. 
+stay tuned!
+# 
 With ❤ monagak team (12 members)
 
-old version download here
+# old version download here
 http://www.mediafire.com/file/t3xkuwe54ex5gbl/E.U_FET_Resources_App_.apk/file
 
 # Getting Started
