@@ -1,4 +1,4 @@
-<a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://yt3.ggpht.com/a/AGF-l79xxreM4k5oq1461DmD_7zVybAxjqJXIitf8A=s900-mo-c-c0xffffffff-rj-k-no" width="65"></a>
+<img src="https://yt3.ggpht.com/a/AGF-l79xxreM4k5oq1461DmD_7zVybAxjqJXIitf8A=s900-mo-c-c0xffffffff-rj-k-no" width="65"></a>
 
 # E.U FET Resources
 
