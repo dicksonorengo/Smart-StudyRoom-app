@@ -3,7 +3,15 @@
 # E.U FET Resources
 
 
-This project was written by  Agricultural Engineering Student
+This project was written by Engineering Students
+The app is intended to be used by student from Faculty of Engineering and technology Egerton University. The app consists  electronics (Arduino Programming, raspberry pi  ), mehanical project with diagram and detailed illustration, Website and App development, Computer troubleshooting (Window Installations and many more),Revision materials from other faculty, lost and found platform Engineering notes from year One to Five and many more. 
+The goal of our life is, ‘Think different, Create difference and feel that difference’ transforming valuable thoughts into reality.
+
+We are the students  of Agricultural, Mechanical, Civil and Electrical  engineering in Egerton University Campus .
+
+Learning through wide world of internet is not an easy task, and that also from high-profile notes is really difficult. So as a student we thought, being here, We could share what we learnt everyday  with  team and at the same time help many  students in Egerton University to explore the vast engineering world in simpler way.
+
+Let us know how you feel about the content and any thing you would like us to cover in the future. We hope you enjoy the content on this App!
  
 We are currently working very hard on **E.U FET RESOURCES APP** with ***⁩ **Engineer Brian**⁩ , **⁨Eng Kip⁩**   , **Eng Rick⁩** **⁨Eng Alfred**⁩ and 6 more members from different faculty . It will bring a lot of new features. 
 stay tuned!
