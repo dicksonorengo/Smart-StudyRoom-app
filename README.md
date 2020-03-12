@@ -2,19 +2,19 @@
 
 # E.U FET Resources
 
-This project is developed to help Egerton Engineers to create hybrid android applications. This app gives web based applications power to use native android features without hassle.
 
-This project was written by ORENGO DICKSON
+This project was written by  Agricultural Engineering Student
  
-We are currently working very hard on **E.U FET RESOURCES APP** with **DOMINIC KATA**⁩ **Engineer NAMASWA**⁩ , **⁨Garison Kip⁩**   , **Rick MONAGAK⁩** **⁨Alfred Mutua**⁩ and 6 more members from different faculty . It will bring a lot of new features. 
+We are currently working very hard on **E.U FET RESOURCES APP** with ***⁩ **Engineer Brian**⁩ , **⁨Eng Kip⁩**   , **Eng Rick⁩** **⁨Eng Alfred**⁩ and 6 more members from different faculty . It will bring a lot of new features. 
 stay tuned!
 # 
 With ❤ monagak team (12 members)
 
 # old version download here
-*http://www.mediafire.com/file/qqq8qddkdtnsey4/E.U_FET_Resources_App_.apk/file*
-
-# Getting Started
+*https://play.google.com/store/apps/details?id=eu.fetresources*
+#New version
+join beta program https://play.google.com/store/apps/details?id=eu.fetresources
+# Getting Started with free source code for learning purpose
 These instructions will help you get your E.U FET Resources copy up and running on your local machine for development and testing purposes.
 
 
